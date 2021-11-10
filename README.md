@@ -1,6 +1,6 @@
 # 🦀🦀🦀 Learning Rust 🦀🦀🦀
 
-Exercises and Lessons from learning the Rust Programming Language 🦀
+Exercises and Lessons from learning the Rust Programming Language
 
 ## Resources
 
